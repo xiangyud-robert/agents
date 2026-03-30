@@ -1,28 +1,8 @@
-Flight Deals from JFK to LHR - June 2025:
+### Flight Deals from SEA to HKG (June 2026)
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
-
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
-
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
-
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
-
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
-
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+1. **Cathay Pacific**
+   - **Price:** $1,170
+   - **Flight Type:** Non-stop
+   - **Departure:** Seattle/Tacoma International Airport (SEA)
+   - **Arrival:** Hong Kong International Airport (HKG)
+   - **Flight Schedule:** Five times per week, starting March 2026.
